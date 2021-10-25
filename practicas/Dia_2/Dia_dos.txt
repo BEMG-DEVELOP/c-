@@ -1,0 +1,14 @@
+24/10/2021 Dia 2.
+
+En este día vi las funciones y la estructura de datos, en los archivos
+estan las explicaciones de todo lo que son las funciones, los procedimientos,
+como mandarlos a llamar, algunas características que se tienen que tomar
+en concideración, ya que podemos caer en unos errores, por la parte de la
+estructura de datos, lo que vi fue los arreglos, como se estructuran,
+las cosas que puedes hacer con ellos, hice varios ejemplos que vi, fueron
+enfocados para alumnos y obtener algunos resultados.
+
+El libro que estaba utilizando , no tenia ejemplos que me ayudaran a entender
+mejor la estructura de datos, entonces buscando en internet encontre los
+ejemplos que estan en esta carpeta.
+

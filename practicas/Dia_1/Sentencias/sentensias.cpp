@@ -23,9 +23,9 @@ int main(){
     //La condicion controla el intervalo establecido.
 
     //Controla que no entre numeros con diferencia inferior a ocho hasta 500 y no superior.
-    if (numero<=492)
+    if ( numero<=492 )
     {
-        for (numero; numero < 500; numero += 8)
+        for ( numero; numero < 500; numero += 8 )
         {
             sumador = sumador + numero;
             contador = contador +1;
@@ -35,6 +35,6 @@ int main(){
     cout << "\n Estas es la suma: " << sumador << endl;
     cout << "El numero total hasta 500 separado ocho posiciones es :" << 
         contador << endl;
-    system("PAUSE");
+    system( "PAUSE" );
     return 0;
 }
