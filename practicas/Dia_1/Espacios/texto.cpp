@@ -4,7 +4,6 @@
     por que solo muestra  una sola letra.
 */
 #include <iostream>
-
 namespace Nombre{
     unsigned char nombre;
     namespace Apellido1{
