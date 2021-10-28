@@ -6,8 +6,7 @@
 
 */
 #include <iostream>
-#include <conio.h>
-#include <stidio.h>
+#include <stdio.h>
 #include <stdlib.h>
 
 struct lista_elementos
@@ -19,8 +18,8 @@ typedef struct lista_elementos nodo;
 
 int menu(void);
 void crear(nodo *pt);
-nodo *insertar(nod *pt);
-nodo *eliminar(nod *pt);
+nodo *insertar(nodo *pt);
+nodo *eliminar(nodo *pt);
 void mostrar(nodo *pt);
 
 void main()
