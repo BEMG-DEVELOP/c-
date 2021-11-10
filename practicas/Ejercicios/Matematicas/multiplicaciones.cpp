@@ -12,7 +12,7 @@ int main()
         cin >> numero;
     } while ((numero < 1) || (numero > 10));
     for (int i = 0; i <= 20; i++){
-        cout<<numero<<" * "<<i<<" = "numero*i<<endl;
+        cout<<numero<<" * "<<i<<" = "<<numero*i<<endl;
     }
 
     cout << "\n\n";
